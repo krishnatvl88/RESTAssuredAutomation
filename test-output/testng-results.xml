@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="7610" started-at="2018-01-03T12:57:06Z" finished-at="2018-01-03T12:57:14Z">
+    <groups>
+    </groups>
+    <test name="REST API" duration-ms="7610" started-at="2018-01-03T12:57:06Z" finished-at="2018-01-03T12:57:14Z">
+      <class name="tests.basics">
+        <test-method status="PASS" signature="getPlaceAPI()[pri:0, instance:tests.basics@f6c48ac]" name="getPlaceAPI" duration-ms="4514" started-at="2018-01-03T06:57:06Z" finished-at="2018-01-03T06:57:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPlaceAPI -->
+      </class> <!-- tests.basics -->
+      <class name="tests.basics5">
+        <test-method status="PASS" signature="extractingNamesAPI()[pri:0, instance:tests.basics5@3abbfa04]" name="extractingNamesAPI" duration-ms="427" started-at="2018-01-03T06:57:13Z" finished-at="2018-01-03T06:57:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extractingNamesAPI -->
+      </class> <!-- tests.basics5 -->
+      <class name="tests.basics4">
+        <test-method status="PASS" signature="postDataXML()[pri:0, instance:tests.basics4@239963d8]" name="postDataXML" duration-ms="341" started-at="2018-01-03T06:57:11Z" finished-at="2018-01-03T06:57:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postDataXML -->
+      </class> <!-- tests.basics4 -->
+      <class name="tests.basics3">
+        <test-method status="PASS" signature="getData()[pri:0, instance:tests.basics3@146ba0ac]" name="getData" is-config="true" duration-ms="18" started-at="2018-01-03T06:57:06Z" finished-at="2018-01-03T06:57:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getData -->
+        <test-method status="PASS" signature="getData()[pri:0, instance:tests.basics7@464bee09]" name="getData" is-config="true" duration-ms="0" started-at="2018-01-03T06:57:06Z" finished-at="2018-01-03T06:57:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getData -->
+        <test-method status="PASS" signature="getData()[pri:0, instance:tests.basics8@6eebc39e]" name="getData" is-config="true" duration-ms="0" started-at="2018-01-03T06:57:06Z" finished-at="2018-01-03T06:57:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getData -->
+        <test-method status="PASS" signature="getData()[pri:0, instance:tests.basics6@4dfa3a9d]" name="getData" is-config="true" duration-ms="0" started-at="2018-01-03T06:57:06Z" finished-at="2018-01-03T06:57:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getData -->
+        <test-method status="PASS" signature="getAndDeletePlace()[pri:0, instance:tests.basics3@146ba0ac]" name="getAndDeletePlace" duration-ms="552" started-at="2018-01-03T06:57:12Z" finished-at="2018-01-03T06:57:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAndDeletePlace -->
+      </class> <!-- tests.basics3 -->
+      <class name="tests.basics2">
+        <test-method status="PASS" signature="createPlaceAPI()[pri:0, instance:tests.basics2@13deb50e]" name="createPlaceAPI" duration-ms="295" started-at="2018-01-03T06:57:11Z" finished-at="2018-01-03T06:57:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createPlaceAPI -->
+      </class> <!-- tests.basics2 -->
+      <class name="tests.basics8">
+        <test-method status="PASS" signature="JiraAPIUpdate()[pri:0, instance:tests.basics8@6eebc39e]" name="JiraAPIUpdate" duration-ms="397" started-at="2018-01-03T06:57:13Z" finished-at="2018-01-03T06:57:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JiraAPIUpdate -->
+      </class> <!-- tests.basics8 -->
+      <class name="tests.basics7">
+        <test-method status="PASS" signature="JiraAPI()[pri:0, instance:tests.basics7@464bee09]" name="JiraAPI" duration-ms="360" started-at="2018-01-03T06:57:14Z" finished-at="2018-01-03T06:57:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JiraAPI -->
+      </class> <!-- tests.basics7 -->
+      <class name="tests.basics6">
+        <test-method status="PASS" signature="JiraAPI()[pri:0, instance:tests.basics6@4dfa3a9d]" name="JiraAPI" duration-ms="657" started-at="2018-01-03T06:57:12Z" finished-at="2018-01-03T06:57:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JiraAPI -->
+      </class> <!-- tests.basics6 -->
+    </test> <!-- REST API -->
+  </suite> <!-- Suite -->
+</testng-results>
